@@ -4,7 +4,7 @@
 
 **B.Tech in Computer Science & Business Systems @ VIT-AP University**
 
-<a href="https://www.linkedin.com/in/samuel-mekala-ab02923bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:samuelmekala26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/samuel-mekala" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -70,6 +70,7 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 | <a href="https://github.com/samuel-mekala/shelf-life-prediction" target="_blank">🍎 Shelf Life Prediction</a> | PyTorch · ShuffleNet V2 · Tkinter | Transfer learning · **97.25% accuracy** · Outperforms ResNet, MobileNet, EfficientNet |
 | <a href="https://github.com/samuel-mekala/road-crash-severity" target="_blank">🚗 Road Crash Severity Prediction</a> | PyTorch Geometric · ST-GNN · ExtraTrees | Hybrid GNN + ML model · **96.46% accuracy** · Spatio-temporal modeling |
 | <a href="https://github.com/samuel-mekala/women-safety-device" target="_blank">🆘 Women Safety Device</a> | Arduino · GPS · GSM · Fingerprint | Embedded IoT device · Dual alert system · Fingerprint-authenticated location SOS |
+| <a href="https://github.com/samuel-mekala/smart-parking-system" target="_blank">🅿️ Smart Parking System</a> | Arduino · Ultrasonic Sensor · Servo Motor · IoT | Password-protected gate · Real-time slot detection · Motion-activated lighting |
 | <a href="https://github.com/samuel-mekala/barcoding-automation-research" target="_blank">📄 Barcoding & Automation Research</a> | SEM · SPSS AMOS · Quantitative | Springer 2025 · n=250 · β=0.779 automation impact proven |
 
 ---
