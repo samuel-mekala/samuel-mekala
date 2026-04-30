@@ -4,7 +4,7 @@
 
 **B.Tech in Computer Science & Business Systems @ VIT-AP University**
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-mekala-ab02923bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:samuelmekala26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/samuel-mekala" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -66,7 +66,7 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 | Project | Tech Stack | Highlights |
 |---|---|---|
 | <a href="https://github.com/samuel-mekala/plant-disease-detection" target="_blank">🌿 Plant Disease Detection</a> | PyTorch · CNN · TensorFlow | 7 CNN architectures compared · **GoogleNet: 99.1% accuracy** · GUI with real-time prediction |
-| <a href="https://github.com/samuel-mekala/heart-disease-prediction" target="_blank">🫀 Heart Disease Prediction</a> | Flask · Scikit-learn · Power BI | 8 ML models benchmarked · Random Forest best at **67%** · Live Flask web app |
+| <a href="https://github.com/samuel-mekala/heart-attack-prediction" target="_blank">🫀 Heart Attack Prediction</a> | Flask · Scikit-learn · Power BI | 8 ML models benchmarked · Random Forest best at **67%** · Live Flask web app |
 | <a href="https://github.com/samuel-mekala/shelf-life-prediction" target="_blank">🍎 Shelf Life Prediction</a> | PyTorch · ShuffleNet V2 · Tkinter | Transfer learning · **97.25% accuracy** · Outperforms ResNet, MobileNet, EfficientNet |
 | <a href="https://github.com/samuel-mekala/road-crash-severity" target="_blank">🚗 Road Crash Severity Prediction</a> | PyTorch Geometric · ST-GNN · ExtraTrees | Hybrid GNN + ML model · **96.46% accuracy** · Spatio-temporal modeling |
 | <a href="https://github.com/samuel-mekala/women-safety-device" target="_blank">🆘 Women Safety Device</a> | Arduino · GPS · GSM · Fingerprint | Embedded IoT device · Dual alert system · Fingerprint-authenticated location SOS |
@@ -109,7 +109,7 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 
 ## 🏆 Leadership & Activities
 
-- 🎤 **Curator** · TEDxVITAP — led end-to-end speaker curation & cross-functional coordination (Sept 2025)
+- 🎤 **Curator** · TEDxVITAP — led end-to-end speaker curation & cross-functional coordination
 - 🌍 **Club Coordinator** · Rotaract Club, VIT-AP (Jul 2023 – Apr 2025)
 - ⚙️ **Core Committee** · V-TAPP International Technical Fest (Feb 2024)
 - 💻 **Student Coordinator** · Computer Society of India, VIT-AP (Jul 2022 – May 2024)
