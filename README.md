@@ -120,19 +120,13 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-mekala&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-mekala&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuel-mekala&theme=tokyonight" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuel-mekala&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuel-mekala&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuel-mekala&theme=tokyonight&utcOffset=5" />
 
-<br/><br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuel-mekala&theme=tokyonight" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuel-mekala&theme=tokyonight&utcOffset=5" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=samuel-mekala&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://streak-stats.demolab.com?user=samuel-mekala&theme=tokyonight&hide_border=true" />
 
 </div>
 
