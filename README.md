@@ -138,12 +138,6 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 
 ---
 
-## 📈 Contribution Graph
-
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-mekala&theme=tokyo-night)](https://github.com/samuel-mekala)
-
----
-
 <div align="center">
 
 📍 Vijayawada, Andhra Pradesh, India · 📧 samuelmekala26@gmail.com · 📱 +91-8978137886
