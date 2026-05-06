@@ -118,14 +118,23 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samuel-mekala&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-mekala&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=samuel-mekala&theme=tokyonight&hide_border=true" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=samuel-mekala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-mekala&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=samuel-mekala&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-mekala&theme=tokyo-night)](https://github.com/samuel-mekala)
 
 ---
 
