@@ -122,8 +122,14 @@ I'm a final-year CS undergraduate from **Vijayawada, Andhra Pradesh** with a dee
 
 <div align="center">
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-mekala&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-mekala&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-mekala&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuel-mekala&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuel-mekala&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuel-mekala&theme=tokyonight&utcOffset=5.5" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=samuel-mekala&theme=tokyonight&hide_border=true" />
 
 </div>
 
