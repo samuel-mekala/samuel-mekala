@@ -2,7 +2,7 @@
 
 # Hi, I'm Samuel Mekala 👋
 
-**B.Tech in Computer Science & Business Systems @ VIT-AP University**
+**B.Tech in Computer Science & Business Systems Graduate @ VIT-AP University**
 
 <a href="https://www.linkedin.com/in/samuel-mekala-ab02923bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:samuelmekala26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
