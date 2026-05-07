@@ -2,7 +2,7 @@
 
 # Hi, I'm Samuel Mekala 👋
 
-**B.Tech in Computer Science & Business Systems Undergraduate @ VIT-AP University**
+**B.Tech in Computer Science & Business Systems Graduate @ VIT-AP University**
 
 <a href="https://www.linkedin.com/in/samuel-mekala-ab02923bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:samuelmekala26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a CS undergraduate from **Vijayawada, Andhra Pradesh** with a deep interest in **Machine Learning, Deep Learning, and Full Stack Development**. I love building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting heart attack risk in healthcare.
+I'm a CS graduate from **Vijayawada, Andhra Pradesh** with a deep interest in **Machine Learning, Deep Learning, and Full Stack Development**. I love building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting heart attack risk in healthcare.
 
 - 🎓 **B.Tech CSBS** · VIT-AP University · CGPA: **7.46/10** · Nov 2021 – Jul 2025
 - 🔬 **Published Researcher** · Springer (2025) · DOI: <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank">10.1007/978-981-99-2832-3_70</a>
