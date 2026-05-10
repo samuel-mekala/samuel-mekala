@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I’m a CS undergraduate from **Vijayawada, Andhra Pradesh** with a deep interest in **Machine Learning, Deep Learning, and Full Stack Development**. I love building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting heart attack risk in healthcare.
+I’m a CS Graduate from **Vijayawada, Andhra Pradesh** with a deep interest in **Machine Learning, Deep Learning, and Full Stack Development**. I love building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting heart attack risk in healthcare.
 
 - 🎓 **B.Tech CSBS** · VIT-AP University · CGPA: **7.46/10** · Nov 2021 – Jul 2025
 - 🔬 **Published Researcher** · Springer (2025) · DOI: <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank">10.1007/978-981-99-2832-3_70</a>
