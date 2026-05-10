@@ -23,7 +23,7 @@ I'm a CS graduate from **Vijayawada, Andhra Pradesh** with a strong interest in 
 - 🎓 **B.Tech CSBS** · VIT-AP University · CGPA: **7.46/10** · 2021 – 2025
 - 🔬 **Published Researcher** · Springer (2025) · DOI: <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank">10.1007/978-981-99-2832-3_70</a>
 - 💼 **ML Engineer Intern** @ IntrainTech, Bangalore (Aug–Nov 2023)
-- 🧩 **Strong foundation** in DSA, OOP, DBMS, and Operating Systems
+- 🧩 **Strong foundation** @ · DSA · OOPS · DBMS · Operating Systems
 - 🎤 **Curator** @ TEDxVITAP · Rotaract Club Coordinator · CSI Student Coordinator
 - 🌐 Languages: English · Telugu (Native) · Hindi
 
