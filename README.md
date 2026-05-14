@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I'm a CS graduate from **Vijayawada, Andhra Pradesh** with a strong interest in **Machine Learning, Deep Learning, Data Structures & Algorithms, and Full Stack Development**. I enjoy building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting road crash severity using Graph Neural Networks.
+I'm a B.Tech CS graduate from **Vijayawada, Andhra Pradesh** with a strong interest in **Machine Learning, Deep Learning, Data Structures & Algorithms, and Full Stack Development**. I enjoy building intelligent systems that solve real-world problems — from detecting plant diseases on farms to predicting road crash severity using Graph Neural Networks.
 
 - 🎓 **B.Tech CSBS** · VIT-AP University · CGPA: **7.46/10** · 2021 – 2025
 - 🔬 **Published Researcher** · Springer (2025) · DOI: <a href="https://doi.org/10.1007/978-981-99-2832-3_70" target="_blank">10.1007/978-981-99-2832-3_70</a>
